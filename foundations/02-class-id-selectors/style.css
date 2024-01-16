@@ -1,0 +1,21 @@
+/* style.css */
+
+.red {
+    background-color: rgb(250, 111, 111);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#one {
+    font-size: 36px;
+    color: blue;
+}
+
+.font {
+    font-size: 24px;
+}
+
+#two {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: 700;
+}
